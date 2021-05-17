@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: com.rakabiling.scrum.reporter
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, gradle, kotest, kotlin, logback, picocli, picocli-kotest, picocli-kotlin-application, readme, shade, yaml]

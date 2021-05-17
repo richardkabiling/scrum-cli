@@ -1,0 +1,12 @@
+- refId: "131951"
+  id: TODO-2415
+  summary: Support updating tasks
+  type: Story
+  status: To Do
+  points: 5
+- refId: "126108"
+  id: TODO-2257
+  summary: Fix tasks not getting strokethrough when done
+  type: Bug
+  status: To Do
+  points: null
